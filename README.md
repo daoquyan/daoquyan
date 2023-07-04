@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**daoquyan/daoquyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is another account of [daoquyan2003](https://github.com/daoquyan2003). For more information, refer to the main account. Thank you <3
 
-Here are some ideas to get you started:
+### A short bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m An,
+
+I’m presently a Computer Science student of UET - VNU.
+
+I’m currently learning Machine Learning and Data Science.
+
+You can also find me on [Facebook](https://www.facebook.com/dqa2003) and [Twitter](https://twitter.com/daoquyan).
